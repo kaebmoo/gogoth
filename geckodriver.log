@@ -1,0 +1,192 @@
+1698828754006	geckodriver	INFO	Listening on 127.0.0.1:55889
+1698828754187	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/k6/lgrdm_ms2dq6f2946xjl4c800000gn/T/rust_mozprofileQSKn4X"
+2023-11-01 15:52:34.538 firefox-bin[22102:6609656] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+2023-11-01 15:52:34.876 firefox-bin[22110:6609752] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+2023-11-01 15:52:42.777 firefox-bin[22110:6609752] Unable to install helper!
+2023-11-01 15:52:42.984 firefox-bin[22142:6610148] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+WebDriver BiDi listening on ws://127.0.0.1:55890
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:55890/devtools/browser/64a0c420-013e-41b4-badf-f8bd41a51707
+1698828836127	geckodriver	INFO	Listening on 127.0.0.1:56019
+1698828836564	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/k6/lgrdm_ms2dq6f2946xjl4c800000gn/T/rust_mozprofilet3Q9Zs"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-11-01 15:53:56.728 firefox-bin[22367:6613596] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1698828836831	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1698828836940	Marionette	INFO	Listening on port 56027
+Read port: 56027
+WebDriver BiDi listening on ws://127.0.0.1:56020
+1698828837068	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:56020/devtools/browser/f9a1e0bc-0b58-4d26-9da2-b7f16d5d5583
+JavaScript warning: https://snap.licdn.com/li.lms-analytics/insight.beta.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://snap.licdn.com/li.lms-analytics/insight.beta.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://snap.licdn.com/li.lms-analytics/insight.beta.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://snap.licdn.com/li.lms-analytics/insight.beta.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://snap.licdn.com/li.lms-analytics/insight.beta.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://snap.licdn.com/li.lms-analytics/insight.beta.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://snap.licdn.com/li.lms-analytics/insight.beta.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://snap.licdn.com/li.lms-analytics/insight.beta.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://snap.licdn.com/li.lms-analytics/insight.beta.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://snap.licdn.com/li.lms-analytics/insight.beta.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://snap.licdn.com/li.lms-analytics/insight.beta.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://snap.licdn.com/li.lms-analytics/insight.beta.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://snap.licdn.com/li.lms-analytics/insight.beta.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://snap.licdn.com/li.lms-analytics/insight.beta.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://snap.licdn.com/li.lms-analytics/insight.beta.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://snap.licdn.com/li.lms-analytics/insight.beta.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://snap.licdn.com/li.lms-analytics/insight.beta.min.js, line 1: unreachable code after return statement
+1698828843187	Marionette	INFO	Stopped listening on port 56027
+JavaScript warning: https://robocorp.com/docs/_next/static/chunks/612-1c0e60b007995f88.js, line 1: Script terminated by timeout at:
+e@https://robocorp.com/docs/_next/static/chunks/612-1c0e60b007995f88.js:1:7427
+
+1698829084366	geckodriver	INFO	Listening on 127.0.0.1:56342
+1698829084795	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/k6/lgrdm_ms2dq6f2946xjl4c800000gn/T/rust_mozprofile5xi7JN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-11-01 15:58:05.025 firefox-bin[23483:6625666] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1698829085185	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1698829085318	Marionette	INFO	Listening on port 56350
+WebDriver BiDi listening on ws://127.0.0.1:56343
+Read port: 56350
+1698829085469	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:56343/devtools/browser/67113e7b-c5b6-41e8-8400-539707fceebb
+JavaScript warning: https://snap.licdn.com/li.lms-analytics/insight.beta.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://snap.licdn.com/li.lms-analytics/insight.beta.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://snap.licdn.com/li.lms-analytics/insight.beta.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://snap.licdn.com/li.lms-analytics/insight.beta.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://snap.licdn.com/li.lms-analytics/insight.beta.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://snap.licdn.com/li.lms-analytics/insight.beta.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://snap.licdn.com/li.lms-analytics/insight.beta.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://snap.licdn.com/li.lms-analytics/insight.beta.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://snap.licdn.com/li.lms-analytics/insight.beta.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://snap.licdn.com/li.lms-analytics/insight.beta.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://snap.licdn.com/li.lms-analytics/insight.beta.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://snap.licdn.com/li.lms-analytics/insight.beta.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://snap.licdn.com/li.lms-analytics/insight.beta.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://snap.licdn.com/li.lms-analytics/insight.beta.min.js, line 1: unreachable code after return statement
+1698829098319	Marionette	INFO	Stopped listening on port 56350
+1698829128388	geckodriver	INFO	Listening on 127.0.0.1:56469
+1698829128838	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/k6/lgrdm_ms2dq6f2946xjl4c800000gn/T/rust_mozprofilemiA97W"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-11-01 15:58:49.037 firefox-bin[23665:6628369] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1698829129133	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1698829129229	Marionette	INFO	Listening on port 56477
+Read port: 56477
+WebDriver BiDi listening on ws://127.0.0.1:56470
+1698829129423	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:56470/devtools/browser/7948045d-0082-4d89-a20d-44a7cf1347f5
+JavaScript warning: https://snap.licdn.com/li.lms-analytics/insight.beta.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://snap.licdn.com/li.lms-analytics/insight.beta.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://snap.licdn.com/li.lms-analytics/insight.beta.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://snap.licdn.com/li.lms-analytics/insight.beta.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://snap.licdn.com/li.lms-analytics/insight.beta.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://snap.licdn.com/li.lms-analytics/insight.beta.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://snap.licdn.com/li.lms-analytics/insight.beta.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://snap.licdn.com/li.lms-analytics/insight.beta.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://snap.licdn.com/li.lms-analytics/insight.beta.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://snap.licdn.com/li.lms-analytics/insight.beta.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://snap.licdn.com/li.lms-analytics/insight.beta.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://snap.licdn.com/li.lms-analytics/insight.beta.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://snap.licdn.com/li.lms-analytics/insight.beta.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://snap.licdn.com/li.lms-analytics/insight.beta.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://snap.licdn.com/li.lms-analytics/insight.beta.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://snap.licdn.com/li.lms-analytics/insight.beta.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://snap.licdn.com/li.lms-analytics/insight.beta.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://snap.licdn.com/li.lms-analytics/insight.beta.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://snap.licdn.com/li.lms-analytics/insight.beta.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://snap.licdn.com/li.lms-analytics/insight.beta.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://snap.licdn.com/li.lms-analytics/insight.beta.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://snap.licdn.com/li.lms-analytics/insight.beta.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://snap.licdn.com/li.lms-analytics/insight.beta.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://snap.licdn.com/li.lms-analytics/insight.beta.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://snap.licdn.com/li.lms-analytics/insight.beta.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://snap.licdn.com/li.lms-analytics/insight.beta.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://snap.licdn.com/li.lms-analytics/insight.beta.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://snap.licdn.com/li.lms-analytics/insight.beta.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://snap.licdn.com/li.lms-analytics/insight.beta.min.js, line 1: unreachable code after return statement
+1698829142950	Marionette	INFO	Stopped listening on port 56477
+1698829176013	geckodriver	INFO	Listening on 127.0.0.1:56596
+1698829176459	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/k6/lgrdm_ms2dq6f2946xjl4c800000gn/T/rust_mozprofileyZjCnH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-11-01 15:59:36.629 firefox-bin[23857:6630928] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1698829176727	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1698829176816	Marionette	INFO	Listening on port 56605
+Read port: 56605
+WebDriver BiDi listening on ws://127.0.0.1:56597
+1698829176967	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:56597/devtools/browser/7eb3bd89-54fc-496f-9701-271f326186cc
+JavaScript warning: https://snap.licdn.com/li.lms-analytics/insight.beta.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://snap.licdn.com/li.lms-analytics/insight.beta.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://snap.licdn.com/li.lms-analytics/insight.beta.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://snap.licdn.com/li.lms-analytics/insight.beta.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://snap.licdn.com/li.lms-analytics/insight.beta.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://snap.licdn.com/li.lms-analytics/insight.beta.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://snap.licdn.com/li.lms-analytics/insight.beta.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://snap.licdn.com/li.lms-analytics/insight.beta.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://snap.licdn.com/li.lms-analytics/insight.beta.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://snap.licdn.com/li.lms-analytics/insight.beta.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://snap.licdn.com/li.lms-analytics/insight.beta.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://snap.licdn.com/li.lms-analytics/insight.beta.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://snap.licdn.com/li.lms-analytics/insight.beta.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://snap.licdn.com/li.lms-analytics/insight.beta.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://snap.licdn.com/li.lms-analytics/insight.beta.min.js, line 1: unreachable code after return statement
+1698829185568	Marionette	INFO	Stopped listening on port 56605
+1698829284848	geckodriver	INFO	Listening on 127.0.0.1:56766
+1698829285274	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/k6/lgrdm_ms2dq6f2946xjl4c800000gn/T/rust_mozprofileGgb4x6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-11-01 16:01:25.436 firefox-bin[24259:6636079] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1698829285618	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1698829285717	Marionette	INFO	Listening on port 56774
+Read port: 56774
+WebDriver BiDi listening on ws://127.0.0.1:56767
+1698829285820	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:56767/devtools/browser/98554862-92d4-474f-b632-402c557a2b85
+JavaScript error: https://www.ntplc.co.th/ResourcePackages/ntplc/assets/dist/js/main.js?v=1.0.1, line 1252: TypeError: document.getElementById(...) is null
+1698829318118	Marionette	INFO	Stopped listening on port 56774
+JavaScript warning: https://www.ntplc.co.th/ResourcePackages/ntplc/assets/libs/swiper-bundle.min.js, line 13: Script terminated by timeout at:
+ce</y/s<@https://www.ntplc.co.th/ResourcePackages/ntplc/assets/libs/swiper-bundle.min.js:13:114671
+
+1698829662100	geckodriver	INFO	Listening on 127.0.0.1:57187
+1698829662507	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/k6/lgrdm_ms2dq6f2946xjl4c800000gn/T/rust_mozprofileX4ZSOL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-11-01 16:07:42.729 firefox-bin[25620:6654423] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1698829662838	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1698829663136	Marionette	INFO	Listening on port 57195
+WebDriver BiDi listening on ws://127.0.0.1:57188
+Read port: 57195
+1698829663354	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:57188/devtools/browser/f66936ba-cd2d-4156-a843-68295169e08d
+JavaScript error: https://www.ntplc.co.th/ResourcePackages/ntplc/assets/dist/js/main.js?v=1.0.1, line 1252: TypeError: document.getElementById(...) is null
+1698829694167	Marionette	INFO	Stopped listening on port 57195
+JavaScript warning: https://www.ntplc.co.th/ResourcePackages/ntplc/assets/libs/swiper-bundle.min.js, line 13: Script terminated by timeout at:
+ce</y/s<@https://www.ntplc.co.th/ResourcePackages/ntplc/assets/libs/swiper-bundle.min.js:13:114671
+
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:107:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:907:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:812:38
+
+console.warn: services.settings: main/language-dictionaries sync interrupted by shutdown
+console.warn: services.settings: main/password-recipes sync interrupted by shutdown
+console.warn: services.settings: main/password-rules sync interrupted by shutdown
+console.warn: services.settings: main/translations-identification-models sync interrupted by shutdown
+console.error: (new AbortError("IndexedDB: main/translations-wasm getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.sys.mjs", 16))
