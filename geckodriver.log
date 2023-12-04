@@ -190,3 +190,20 @@ console.warn: services.settings: main/password-recipes sync interrupted by shutd
 console.warn: services.settings: main/password-rules sync interrupted by shutdown
 console.warn: services.settings: main/translations-identification-models sync interrupted by shutdown
 console.error: (new AbortError("IndexedDB: main/translations-wasm getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+1698899337023	geckodriver	INFO	Listening on 127.0.0.1:49523
+1698899337449	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/k6/lgrdm_ms2dq6f2946xjl4c800000gn/T/rust_mozprofilezLdTlI"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-11-02 11:28:57.685 firefox-bin[2254:23350] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1698899337791	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1698899337889	Marionette	INFO	Listening on port 49531
+WebDriver BiDi listening on ws://127.0.0.1:49524
+Read port: 49531
+1698899338018	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:49524/devtools/browser/f8d20165-5b5f-4e7c-8980-2b8ff91c293f
+1698899349861	Marionette	INFO	Stopped listening on port 49531
+JavaScript warning: https://www.ntplc.co.th/ResourcePackages/ntplc/assets/libs/swiper-bundle.min.js, line 13: Script terminated by timeout at:
+ce</y/s<@https://www.ntplc.co.th/ResourcePackages/ntplc/assets/libs/swiper-bundle.min.js:13:114671
+
